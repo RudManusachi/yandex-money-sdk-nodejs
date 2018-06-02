@@ -12,7 +12,7 @@
     "sdk"
   ],
   "dependencies": {
-    "request": "2.9.x"
+    "request": "2.87.x"
   },
   "devDependencies": {
     "mocha": ">= 1.21.0"
